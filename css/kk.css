@@ -1,0 +1,55 @@
+.section-promo{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.section-promo-1{
+  display: flex;
+}
+.section-promo-1__content{
+  flex-basis: 50%;
+  padding-right: 90px;
+}
+.section-promo-1__video{
+  flex-basis: 50%;
+}
+.section-promo-1__video img{
+  width: 100%;
+  height: auto;
+}
+.section-promo-1__content .title{
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: bold;
+}
+.section-promo-1__content .subtitle{
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: bold;
+}
+.section-promo-1__content .text{
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 300;
+}
+
+.section-promo-2{
+
+}
+.section-inner {
+}
+.section-header-logo {
+}
+.section-header-content {
+}
+.section-header-wrapper {
+}
+.section-header-wrapper__title {
+}
+.section-header-wrapper__subtitle {
+}
+.section-header-wrapper__form {
+}
+.section-header-wrapper__form-input {
+}
+.section-header-wrapper__form-button {
+}
