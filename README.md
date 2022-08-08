@@ -3,4 +3,4 @@ Landing page about bikes and action.
 
 Used:
 - HTML 5
-- css 3
+- SASS
